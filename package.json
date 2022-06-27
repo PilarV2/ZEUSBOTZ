@@ -11,7 +11,7 @@
     },
     "scripts": {
         "start": "node index.js",
-        "mongo": "node . --db 'mongodb+srv://Pilardev200:8GxM8ex9JnGXJMzo@Bilek.qnos7.mongodb.net/?retryWrites=true&w=majority'",
+        "mongo": "node . --db 'url'",
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
@@ -29,13 +29,13 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/fokusdotid/family-md",
+    "homepage": "https://github.com/PilarV2/ZEUSBOTZ",
     "author": {
         "name": "By Pilar"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fokusdotid/family-md.git"
+        "url": "git+https://github.com/PilarV2/ZEUSBOTZ.git"
     },
     "bugs": {
         "url": "https://github.com/fokusdotid/family-md/issues"
