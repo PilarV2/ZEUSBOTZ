@@ -1,7 +1,7 @@
 {
-  "name": "family",
+  "name": "zeusbotz",
   "description": "WhatsApp Bot Using Library Baileys Multi Device",
-  "repository": "https://github.com/fokusdotid/family-md",
+  "repository": "https://github.com/PilarV2/ZEUSBOTZ",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"]
 }
